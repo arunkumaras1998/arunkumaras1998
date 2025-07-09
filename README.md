@@ -1,7 +1,7 @@
 ## Hi 👋, I'm Arun Kumar A S
 
 # 💫 About Me:
-🌱 I’m currently learning Phython for Automation<br><br>👨‍💻 I’m currently working on Quality Analyst<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>📽️ I regularly upload videos on My Youtube Channel<br><br>💬 Ask me about Apps, Backend and Artificial Intelligence<br><br>📫 Reach out to me at chandansgowda167@gmail.com
+🌱 I’m currently learning Python for Automation<br><br>👨‍💻 I’m currently working on Quality Analyst<br><br>📑 Check out my resume here - My Resume<br><br>💻 All of my projects are available on GitHub<br><br>📽️ I regularly upload videos on My Youtube Channel<br><br>💬 Ask me about Apps, Backend and Artificial Intelligence<br><br>📫 Reach out to me at chandansgowda167@gmail.com
 
 
 ## 🌐 Socials:
