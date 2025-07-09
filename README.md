@@ -1,5 +1,5 @@
-## Hi 👋, I'm Arun Kumar A S
-
+                                                              ## Hi 👋, I'm Arun Kumar A S
+                                                      ## A passionate Test Enginner from India 🇮🇳
 # 💫 About Me:
 🌱 I’m currently learning Python for Automation<br><br>👨‍💻 I’m currently working on Quality Analyst<br><br>📑 Check out my resume here - [MY Resume]([https://pages.github.com/](https://drive.google.com/file/d/1GV203p33H_QZlbnIsLuuiGjob4hD28CR/view?usp=sharing))<br><br>💻 All of my projects are available on GitHub<br><br>💬 Ask me about Software Testing, Web Automation Tesing and API Automation Testing<br><br>📫 Reach out to me at arun1998.ag12@gmail.com
 
