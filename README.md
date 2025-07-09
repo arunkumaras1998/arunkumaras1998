@@ -1,20 +1,35 @@
-## <center> Hi 👋, I'm Arun Kumar A S </center>
-## A passionate Test Engineer from India 🇮🇳
-# 💫 About Me:
-🌱 I’m currently learning Python for Automation<br><br>👨‍💻 I’m currently working on Quality Analyst Engineer<br><br>📑 Check out my resume here - <a href="https://drive.google.com/file/d/1GV203p33H_QZlbnIsLuuiGjob4hD28CR/view?usp=sharing">My Resume</a> <br><br>💻 All of my projects are available on <a href="https://github.com/arunkumaras1998">GitHub</a><br><br>💬 Ask me about Software Testing, Web Automation Tesing and API Automation Testing<br><br>📫 Reach out to me at arun1998.ag12@gmail.com
+[![MasterHead](https://www.shutterstock.com/image-vector/software-testing-banner-web-icon-260nw-2219991321.jpg)]
+<h1 align="center">Hi 👋, I'm Arun Kumar A S</h1>
+<h3 align="center">A passionate Quality Analyst from India</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/IieZUsqoYCwAAAAM/developer.gif">
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arunkumaras1998&label=Profile%20views&color=0e75b6&style=flat" alt="arunkumaras1998" /> </p>
 
-## 🌐 Socials:
-[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ArunGowda1720) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:arun1998.ag12@gmail.com) 
+- 🔭 I’m currently working on **Quality Analyst Engineer**
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=arunkumaras1998&theme=default&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=arunkumaras1998&theme=default&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=arunkumaras1998&theme=default&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+- 🌱 I’m currently learning **Python Web Automation**
 
----
-[![](https://visitcount.itsvg.in/api?id=arunkumaras1998&icon=0&color=0)](https://visitcount.itsvg.in)
+- 👨‍💻 All of my projects are available at [GitHub](https://github.com/arunkumaras1998)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+- 📝 I regularly write articles on [LinkedIn](https://www.linkedin.com/in/arun-kumar-a-s/)
+
+- 💬 Ask me about **Software Testing, Web Automation Testing and API Web Automation Testing**
+
+- 📫 How to reach me **arun1998.ag12@gmail.com**
+
+- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GV203p33H_QZlbnIsLuuiGjob4hD28CR/view?usp=sharing)
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/@arungowda1720" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@arungowda1720" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/arun kumar a s" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="arun kumar a s" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arunkumaras1998&show_icons=true&locale=en&layout=compact" alt="arunkumaras1998" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arunkumaras1998&show_icons=true&locale=en" alt="arunkumaras1998" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arunkumaras1998&" alt="arunkumaras1998" /></p>
