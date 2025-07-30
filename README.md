@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Quality Analyst Engineer**
 
-- 🌱 I’m currently learning **Python Web Automation**
+- 🌱 I’m currently learning **Playwright JavaScript Web Automation**
 
 - 👨‍💻 All of my projects are available at [GitHub](https://github.com/arunkumaras1998)
 
